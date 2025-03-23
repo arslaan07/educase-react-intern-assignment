@@ -44,7 +44,7 @@ const Signin = () => {
                 },
               }}
             />
-            <Btn asChild className='bg-[#6C25FF] w-[335px] h-[46px] hover:bg-[#5818e2]'><Link to="/profile">Login</Link></Btn>
+            <Btn asChild className='bg-[#6C25FF] max-w-[335px] h-[46px] hover:bg-[#5818e2]'><Link to="/profile">Login</Link></Btn>
         </form>
       </section>
     </div>

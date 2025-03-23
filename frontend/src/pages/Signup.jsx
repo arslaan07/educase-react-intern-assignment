@@ -118,7 +118,7 @@ const Signin = () => {
                         </RadioGroup>
                     </FormControl>
 
-                    <Btn asChild className='mt-[5rem] bg-[#6C25FF] w-[335px] h-[46px] hover:bg-[#5818e2]'>
+                    <Btn asChild className='mt-[3rem] bg-[#6C25FF] max-w-[335px] h-[46px] hover:bg-[#5818e2]'>
                         <Link to="/profile">Create Account</Link>
                     </Btn>
                 </form>
