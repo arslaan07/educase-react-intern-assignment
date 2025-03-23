@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 const Landing = () => {
   return (
-    <div className='bg-[#F7F8F9] flex justify-center items-end h-[100vh] px-[1.5rem] py-[1.5rem]'>
+    <div className='bg-[#F7F8F9] flex justify-center items-end h-[100vh] px-[1.5rem] py-[2.5rem]'>
       <section className='flex flex-col gap-3'>
         <h1 className='font-semibold text-[28px]'>Welcome to PopX</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.Pariatur repellat dolorem neque.</p>
